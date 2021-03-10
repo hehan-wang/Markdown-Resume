@@ -49,11 +49,12 @@
 
 - **乐投广告平台**
 
-  * **技术选型：**Spring-boot,Vue,Mybatis-plus,Docker,k8s,Gitlab CI/CD,Mysql,Redis,Rabbitmq,Clickhouse
+  * **技术选型：** Spring-boot,Vue,Mybatis-plus,Docker,k8s,Gitlab CI/CD,Mysql,Redis,Rabbitmq,Clickhouse
 
-  * **项目介绍：**该平台为提高广告投放成效研发。对接三方Marketing API 拉取媒体成本等数据，以及实时收集广告点击数据，统计ROI等指标以报表形式展现。提供广告投放需要的一系列工具等功能。
+  * **项目介绍： ** 该平台为提高广告投放成效研发。对接三方Marketing API 拉取媒体成本等数据，以及实时收集广告点击数据，统计ROI等指标以报表形式展现。提供广告投放需要的一系列工具等功能。
   * **责任描述：** 任务模块以及api模块开发，技术选型，项目搭建。
   * **成果收获：**
+    
     1. 使用策略模式(借助spring工厂)对接多个媒体，使新接入一个媒体的成本降低到最小。
     
     2. 由于需要频繁跟数仓和运维跨部门协作 ，提升了跨部门沟通能力(积极沟通等方式)。
@@ -62,8 +63,8 @@
 
 - **穿云箭平台**
 
-  * **技术选型：**Spring-cloud-alibaba(nacos,feign,gateway),Mybatis-Plus,Docker,Mysql,Redis,Mongodb,Rabbitmq,Nginx,Spring-security-oauth
-  * **项目介绍：**该平台为提高广告投放成效研发。对接三方Marketing API 拉取媒体成本等数据，以及实时收集广告点击数据，统计ROI等指标以报表形式展现。提供广告投放需要的一系列工具等功能。
+  * **技术选型：** Spring-cloud-alibaba(nacos,feign,gateway),Mybatis-Plus,Docker,Mysql,Redis,Mongodb,Rabbitmq,Nginx,Spring-security-oauth
+  * **项目介绍：** 该平台为提高广告投放成效研发。对接三方Marketing API 拉取媒体成本等数据，以及实时收集广告点击数据，统计ROI等指标以报表形式展现。提供广告投放需要的一系列工具等功能。
   * **责任描述：** 需求分析 库表设计 项目搭建 项目开发 协调开发测试上线
   * **成果收获：**
 
@@ -75,8 +76,8 @@
 
 - **GT DSP投放引擎**
 
-  * **技术选型：**Vertx,Guice,Docker,Redis,RocktsDB,MongoDB
-  * **项目介绍：**该系统为DSP投放引擎，负责接受媒体传过来的竞价/展示/点击请求，以及上报点击请求到广告主并接受广告主的激活归因结果。
+  * **技术选型：** Vertx,Guice,Docker,Redis,RocktsDB,MongoDB
+  * **项目介绍：** 该系统为DSP投放引擎，负责接受媒体传过来的竞价/展示/点击请求，以及上报点击请求到广告主并接受广告主的激活归因结果。
   * **责任描述：** 
   * **成果收获：**
     1. 使用vertx支撑单节点5000+qps
