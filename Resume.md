@@ -31,8 +31,6 @@
     4. 完成在线项目不停机迁移数据库(使用双写+代理)。
     
 
-
-
 - **上海太睿科技有限公司，产品研发部门，开发组长，2019.06~2019.12**
     1. 穿云箭平台架构搭建以及编写。   
     
@@ -95,8 +93,6 @@
 - **熟悉掌握** Netty,Vertx等响应式编程框架 并基于Zk+Netty实现了简单的rpc框架 https://github.com/hehan-wang/LightRpc
 
 - **基本掌握** Clickhouse，MongoDB等数据库的使用。Docker，K8s，Gitlab CI/CD的使用。Golang开发。
-
-  
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
