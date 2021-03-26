@@ -16,11 +16,17 @@
              <a href="https://github.com/hehan-wang">hehan-wang</a>
          </span>
        	.
+         <span>
+             <img src="assets/birthday.svg" width="18px">
+             1993-03-05
+         </span>
+       	.
         <span>
              <img src="assets/head.jpeg" width="80px">
          </span>
      </div>
  </center>
+
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
@@ -28,7 +34,8 @@
     1. 乐投广告投放平台后端架构搭建。
     2. 一周内从0学习并搭建K8s+Gitlab CI/CD 自动化容器部署。
     3. 两周内从0学习Golang并使用异步编程完成打点SDK的编写。
-    4. 完成在线项目不停机迁移数据库(使用队列+双写+代理)。
+    4. 编写Java异步打点SDK 并封装成spring-boot-starter自动装配使用。
+    5. 完成在线项目不停机迁移数据库(使用队列+双写+代理)。
     
 - **上海太睿科技有限公司，产品研发部门，开发组长，2019.06~2019.12**
     1. 穿云箭微服务平台架构搭建以及编写。   
