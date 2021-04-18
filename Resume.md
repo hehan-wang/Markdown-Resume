@@ -98,19 +98,45 @@
 - **GT DSP投放引擎(2018.01~2019.6)**
 
   * **技术选型：** Vertx,Guice,Docker,Redis,RocktsDB,Kafka
+  
   * **项目介绍：** 该系统为DSP投放引擎，负责接受媒体传过来的竞价/展示/点击请求，以及上报点击请求到广告主并接受广告主的激活归因结果。
+  
     1. 使用响应式编程框架Vertx组件搭建整个项目。
     2. 使用Guice管理模块依赖。
     3. Redis作为与业务模块交互的数据总线。
     4. RocktsDB存储海量的设备包信息。
     5. 请求响应原始日志落Kafka用来做监控，回溯。
+  
   * **责任描述：** 项目搭建，维护，ADX对接
+  
   * **项目难点：** 
+  
     1. 高并发：使用基于多路复用IO的Netty的响应式编程框架Vertx，一个线程管理多个连接提高QPS。
     2. 低延迟：由于RTB广告要求响应时间在100ms以下，要求投放引擎读写低延迟，采取了读纯内存的Redis，批量顺序写磁盘的Kafka，读LSM-Tree+BloomFilter结构的RocksDB降低RT
+  
   * **成果收获：**
+    
     1. 使用vertx支撑单节点7000+qps。
+    
     2. 对RTB理解加深 可以承担RTB广告整体开发。
+    
+       
+  
+- **Mex ADX(2017.01~2018.1)**
+
+  * **技术选型：** Vertx,Guice,Docker,Redis,Kafka
+  * **项目介绍：** 该系统为ADX广告交易平台。对接SSP/ADX流量方，放给下游DSP/ADX。
+    1. 根据DSP设施的QPS和前置定向信息过滤可用的DSP列表
+    2. 发送BidRequest接受BidResponse
+    3. 校验BidResponse格式
+    4. 处理竞价取第二高价
+    5. 处理价格的宏替换发送给DSP win-notice/impression
+  * **责任描述：** 项目维护，媒体对接
+  * **项目难点：** 
+    1. 高并发，低延迟
+  * **成果收获：**
+    1. 熟悉响应式编程思路
+    2. 了解adx实现逻辑
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
