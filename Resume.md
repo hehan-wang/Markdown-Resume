@@ -27,6 +27,15 @@
      </div>
  </center>
 
+## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+
+- **熟练掌握** Java编程(JUC,JVM)，Spring全家桶(Spring Cloud)，Mybatis，Mybatis-Plus等框架的使用。阅读过部分源码，提交过Mybatis-Plus框架pr。
+- **熟练掌握** Mysql ，Redis等数据库，Kakfa等常用MQ的优化。
+- **熟练掌握** 常用设计模式 ，常用重构手法的使用。https://www.edrawsoft.cn/viewer/public/s/8c21b017655819
+- **熟悉掌握** 数据结构与算法 ，基本Linux命令，阅读英文文档无障碍。
+- **熟悉掌握** Netty,Vertx等响应式编程框架 并基于Zk+Netty实现了简单的rpc框架 https://github.com/hehan-wang/LightRpc
+- **基本掌握** Clickhouse，MongoDB等数据库的使用。Docker，K8s，Gitlab CI/CD的使用。Golang开发。
+- 
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
@@ -137,15 +146,6 @@
   * **成果收获：**
     1. 熟悉响应式编程思路
     2. 了解adx实现逻辑
-
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
-
-- **熟练掌握** Java编程(JUC,JVM)，Spring全家桶(Spring Cloud)，Mybatis，Mybatis-Plus等框架的使用。阅读过部分源码，提交过Mybatis-Plus框架pr。
-- **熟练掌握** Mysql ，Redis等数据库，Kakfa等常用MQ的优化。
-- **熟练掌握** 常用设计模式 ，常用重构手法的使用。https://www.edrawsoft.cn/viewer/public/s/8c21b017655819
-- **熟悉掌握** 数据结构与算法 ，基本Linux命令，阅读英文文档无障碍。
-- **熟悉掌握** Netty,Vertx等响应式编程框架 并基于Zk+Netty实现了简单的rpc框架 https://github.com/hehan-wang/LightRpc
-- **基本掌握** Clickhouse，MongoDB等数据库的使用。Docker，K8s，Gitlab CI/CD的使用。Golang开发。
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
