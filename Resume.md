@@ -1,31 +1,34 @@
- <center>
-     <h1>王鹤涵</h1>
-     <div>
-         <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             17600108055
-         </span>
-         ·
-         <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             524259885@qq.com
-         </span>
-         ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/hehan-wang">hehan-wang</a>
-         </span>
-       	.
-         <span>
-             <img src="assets/birthday.svg" width="18px">
-             1993-03-05
-         </span>
-       	.
-        <span>
-             <img src="assets/head.jpeg" width="80px">
-         </span>
-     </div>
- </center>
+
+
+
+
+   <table style="border: none;margin-left: auto; margin-right: auto;">
+        <tr>
+            <td style="border: none;">
+                姓名：王鹤涵
+            </td>
+            <td style="border: none;">
+                年龄：28
+            </td>
+        </tr>
+            <tr>
+            <td style="border: none;">
+                学历：本科
+            </td>
+            <td style="border: none;">
+                工作年限：6年
+            </td>
+        </tr>
+            <tr>
+            <td style="border: none;">
+                电话：17600108055
+            </td>
+            <td style="border: none;">
+                邮箱：524259885@qq.com
+            </td>
+        </tr>
+    </table>
+
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
