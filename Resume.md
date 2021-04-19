@@ -1,34 +1,34 @@
 
 
 
+## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息
 
-   <table style="border: none;margin-left: auto; margin-right: auto;">
-        <tr>
-            <td style="border: none;">
-                姓名：王鹤涵
-            </td>
-            <td style="border: none;">
-                年龄：28
-            </td>
-        </tr>
-            <tr>
-            <td style="border: none;">
-                学历：本科
-            </td>
-            <td style="border: none;">
-                工作年限：6年
-            </td>
-        </tr>
-            <tr>
-            <td style="border: none;">
-                电话：17600108055
-            </td>
-            <td style="border: none;">
-                邮箱：524259885@qq.com
-            </td>
-        </tr>
-    </table>
-
+<table style="border: none;margin-left: auto; margin-right: auto;">
+    <tr style="border: none;">
+        <td style="border: none;">
+            姓名：王鹤涵
+        </td>
+        <td style="border: none;">
+            年龄：28
+        </td>
+    </tr>
+     <tr style="border: none;">
+        <td style="border: none;">
+            学历：本科
+        </td>
+        <td style="border: none;">
+            工作年限：6年
+        </td>
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+            电话：17600108055
+        </td>
+        <td style="border: none;">
+            邮箱：524259885@qq.com
+        </td>
+    </tr>
+</table>
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
@@ -38,7 +38,6 @@
 - **熟悉掌握** 数据结构与算法 ，基本Linux命令，阅读英文文档无障碍。
 - **熟悉掌握** Netty,Vertx等响应式编程框架 并基于Zk+Netty实现了简单的rpc框架 https://github.com/hehan-wang/LightRpc
 - **基本掌握** Clickhouse，MongoDB等数据库的使用。Docker，K8s，Gitlab CI/CD的使用。Golang开发。
-- 
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
@@ -155,7 +154,7 @@
 - 本科，沈阳工业大学，电气工程及其自动化专业，2011.9~2015.7
 
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 自我评价
+## <img src="assets/rss-solid.svg" width="30px"> 自我评价
 
  - 责任心强 能吃苦 有团队意识。遵循团队开发规范并加入自身思考。
  - 有学习能力 适应能力强  喜欢研究技术 能很快融入新项目。
